@@ -1,0 +1,10 @@
+tensorflow>=2.10
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+h5py
+pillow
+tqdm

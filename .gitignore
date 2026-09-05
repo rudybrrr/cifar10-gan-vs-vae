@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+venv/
+.venv/
+checkpoints/
+histories/
+grids/
+temporary_checkpoints/
+temporary_outputs/
