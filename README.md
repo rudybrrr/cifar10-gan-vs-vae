@@ -1,5 +1,8 @@
 # GAN vs VAE for CIFAR-10 Image Generation
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudhresh_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudhresh-r/)
+[![GitHub](https://img.shields.io/badge/GitHub-rudybrrr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudybrrr)
+
 Can a GAN or a VAE produce the stronger CIFAR-10 image generator under a shared, frozen evaluation framework? This project develops both model families on CIFAR-10, freezes the selected candidate from each track, and compares them using protected-test FID, blinded visual review, requested-class adherence, and a nearest-neighbour audit.
 
 **Author:** Agne Rudhresh
@@ -100,12 +103,10 @@ The VAE experimentation track was primarily developed by my project partner, wit
 
 ### Collaborator
 
+Name: Mohamad Aniq Bin Mohamad Hisyam
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/xTurtleXP) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mohamadaniq/)
 
 ## Coursework Context
 
-This is a privacy-clean, standalone public version of Part A of a collaborative Deep Learning coursework project. It preserves the experiment record and conclusions without publishing submission material, student identifiers, or private contact details.
-
-## License
-
-No license has been selected. Choose one before publishing if you want to grant reuse rights.
+This is a privacy-clean, standalone public version of Part A of a collaborative Deep Learning coursework project. It preserves the experiment record and conclusions without publishing submission material, student identifiers or private credentials. 
